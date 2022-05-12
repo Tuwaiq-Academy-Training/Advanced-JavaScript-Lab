@@ -29,3 +29,13 @@ create an array of characters that has these properties (name, height, gender, m
 ## SOME
 1. Is there at least one character with blue eyes?
 2. Is there at least one character taller than 210?
+
+
+# The Rick and Morty API
+<img src="giphy.gif">
+
+- Figure out how to access the images and names key with their values.
+- Display these values in grid.
+- 
+## The output Should like this:
+![Output](JSON-lab-output.png)
