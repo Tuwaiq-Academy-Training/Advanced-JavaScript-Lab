@@ -36,6 +36,7 @@ create an array of characters that has these properties (name, height, gender, m
 
 - Figure out how to access the images and names key with their values.
 - Display these values in grid.
-- 
+
+
 ## The output Should like this:
 ![Output](JSON-lab-output.png)
